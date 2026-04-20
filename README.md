@@ -1,0 +1,2 @@
+# python-learning
+python学習でZeenBookのpython入門を実施した
